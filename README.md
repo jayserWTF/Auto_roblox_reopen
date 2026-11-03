@@ -1,3 +1,8 @@
 # Auto reopening roblox
-### helpfull thing for people who farming in roblox games
 doesn't detect roblox kick, only when roblox process closing
+
+---
+### Setup
+- Libraries: `os`, `time`, `requests`
+- Add your Discord webhook to `webhook_url`
+- Replace `place_id` to yours
