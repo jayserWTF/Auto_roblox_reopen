@@ -1,2 +1,3 @@
-# Auto_roblox_reopen
-Automaticly reopens roblox when it closing
+# Auto reopening roblox
+For people who farming in roblox games
+-# doesn't detect roblox kick, only when roblox process closing
